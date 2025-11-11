@@ -1,9 +1,9 @@
 # PERSONAL-PORTFOLIO-WEBPAGE
 COMPANY: CODTECH IT SOLUTIONS
 
-NAME: SYED SALMANUDDIN
+NAME: MOODA SHARATH
 
-INTERN ID: CT04DR640
+INTERN ID: CT04DR609
 
 DOMAIN: FRONT END DEVELOPMENT
 
@@ -22,8 +22,6 @@ HTML – for webpage structure
 CSS – for styling and layout
 
 VS Code – for coding and editing
-
-Deliverable: A fully responsive personal portfolio webpage with project sections and navigation.
 
 ##OUTPUT
 <img width="1903" height="783" alt="Image" src="https://github.com/user-attachments/assets/5a8ea863-faff-4243-b8ac-b72ec47d5ce7" />
