@@ -26,3 +26,6 @@ VS Code – for coding and editing
 Deliverable: A fully responsive personal portfolio webpage with project sections and navigation.
 
 ##OUTPUT
+<img width="1903" height="783" alt="Image" src="https://github.com/user-attachments/assets/5a8ea863-faff-4243-b8ac-b72ec47d5ce7" />
+
+<img width="1919" height="605" alt="Image" src="https://github.com/user-attachments/assets/5e1d661a-645e-46c2-a2f8-142aab40fb43" />
